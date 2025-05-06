@@ -1,6 +1,6 @@
 # Welcome 👋
 
-* 🔧 CyberSecurity Enggineer
+* 🔧 CyberSecurity Researcher
 * 🌐 Fullstack Web Dev
 * 🌱 Still learning
 
