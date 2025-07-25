@@ -1,7 +1,7 @@
 # Welcome 👋
 
 * 🔧 CyberSecurity Researcher
-* 🌐 Fullstack Web Dev
+* 🌐 Web Dev
 * 🌱 Still learning
 
 ## Certifications
