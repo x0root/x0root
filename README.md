@@ -11,5 +11,5 @@
 - Cyber Security Threats
 - Encryption Basics
 
-![x0root's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x0root&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![x0root's Streak](https://github-readme-streak-stats.herokuapp.com/?user=x0root&theme=vue-dark&hide_border=true)
+![x0root's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x0root&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![x0root's Streak](https://github-readme-streak-stats.herokuapp.com/?user=x0root&theme=dark&hide_border=true)
