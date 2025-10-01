@@ -1,8 +1,15 @@
-# Welcome 👋
+## Website
+- https://jose.gt.tc
 
-* 🔧 CyberSecurity Researcher
-* 🌐 Web Dev
-* 🌱 Still learning
+## Bug Bounty Profiles
+- https://bugcrowd.com/h/aptroot
+- https://hackerone.com/aptroom
+
+## Open Source Security Tools
+- WProject (https://github.com/x0root/WProject)
+- Pyilot (https://github.com/x0root/Pyilot)
+- Terminatex (https://github.com/x0root/Terminatex)
+- FormDataSaver (https://github.com/x0root/FormDataSaver)
 
 ## Certifications
 - Advanced Cyber Security - Threats and Governance
@@ -11,5 +18,21 @@
 - Cyber Security Threats
 - Encryption Basics
 
-![x0root's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x0root&theme=dark&show_icons=true&hide_border=true&layout=compact)
-![x0root's Streak](https://github-readme-streak-stats.herokuapp.com/?user=x0root&theme=dark&hide_border=true)
+## Vulnerability Disclosures/Bug Bounties
+
+### 2025:
+- RiteCMS 2.0 Remote Code Execution (RCE) - Published proof-of-concept and submitted to CVE database
+- Manus AI P1 Remote Code Execution vulnerability in AI platform infrastructure
+- Seafile Security Vulnerability ($200 bounty)
+- Ministry of Forestry Indonesia - 2 high-severity vulnerabilities with official recognition
+- Canva Business Logic Flaw - Unauthorized access to premium features without subscription
+
+### 2024:
+- The NatWest Group - 3 security vulnerabilities accepted and triaged via Bugcrowd
+
+## Open Source Contributions
+- SpyHunt - Improved stability by fixing minor bugs
+- Wikipedia - Enhanced article accuracy impacting 7,700+ readers
+
+## Acknowledgments
+- Lime AI Early Access Tester - Granted free access until 2026 in recognition of feedback contributions
