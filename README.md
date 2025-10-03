@@ -1,6 +1,3 @@
-## Website
-- https://jose.gt.tc
-
 ## Bug Bounty Profiles
 - https://bugcrowd.com/h/aptroot
 - https://hackerone.com/aptroom
