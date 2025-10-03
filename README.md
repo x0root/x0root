@@ -19,7 +19,7 @@
 
 ### 2025:
 - RiteCMS 2.0 Remote Code Execution (RCE) - Published proof-of-concept and submitted to CVE database
-- Manus AI P1 Remote Code Execution vulnerability in AI platform infrastructure
+- Manus AI P1 Sandbox Escape vulnerability in AI platform infrastructure
 - Seafile Security Vulnerability
 - Ministry of Forestry Indonesia - 2 high-severity vulnerabilities with official recognition
   
