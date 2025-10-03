@@ -25,8 +25,7 @@
 - Manus AI P1 Remote Code Execution vulnerability in AI platform infrastructure
 - Seafile Security Vulnerability
 - Ministry of Forestry Indonesia - 2 high-severity vulnerabilities with official recognition
-- Canva Business Logic Flaw - Unauthorized access to premium features without subscription
-
+- 
 ### 2024:
 - The NatWest Group - 3 security vulnerabilities accepted and triaged via Bugcrowd
 
