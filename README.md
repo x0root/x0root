@@ -18,8 +18,8 @@
 ## Vulnerability Disclosures/Bug Bounties
 
 ### 2025:
-- Sandbox Escape vulnerability on the Google Translate
-- Manus AI P1 Sandbox Escape vulnerability in AI platform infrastructure
+- Sync-in File Manager — Stored XSS Vulnerability
+- FileRise — High ~ Critical Stored XSS Vulnerability
 - Seafile Security Vulnerability
 - Ministry of Forestry Indonesia - 2 high-severity vulnerabilities with official recognition
   
